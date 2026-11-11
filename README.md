@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="2000" height="2000" alt="Untitled Design" src="https://github.com/user-attachments/assets/b1605aa6-d77d-4ff1-8b9f-a3a20e3e03e9" />
-" alt="Retro OLED Player logo" width="128">
+  <img src="https://github.com/user-attachments/assets/454544c8-7f91-4c38-af99-76a4a5abb716" alt="Retro OLED Player logo" width="128">
 </p>
 
 <h1 align="center">Retro OLED Player</h1>
@@ -9,8 +8,15 @@
 
 Retro OLED Player plays your videos the way an old device would: a 128x128 4-bit OLED on a 2005 phone, a curved CRT monitor, or a grainy VHS camcorder, with crunchy low-quality audio to match.
 
-![Retro OLED Player preview](<img width="682" height="652" alt="Screenshot 2026-11-12 012102" src="https://github.com/user-attachments/assets/d7e7e1ae-4006-46ee-800f-a3e47cd3a2df" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7e7e1ae-4006-46ee-800f-a3e47cd3a2df" alt="Retro OLED Player preview" width="400">
+</p>
+
+testing on "Mischievous Function"
+<p align="center">
+  <img width="642" height="636" alt="Screenshot 2026-11-12 013640" src="https://github.com/user-attachments/assets/d7a69e71-1edb-4caa-8640-01d541164a7e" />
+
+</p>
 
 ## Features
 
