@@ -8,24 +8,19 @@
 
 Retro OLED Player plays your videos the way an old device would: a 128x128 4-bit OLED on a 2005 phone, a curved CRT monitor, or a grainy VHS camcorder, with crunchy low-quality audio to match.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7e7e1ae-4006-46ee-800f-a3e47cd3a2df" alt="Retro OLED Player preview" width="400">
-</p>
 
-testing on "Mischievous Function"
-<p align="center">
-  <img width="642" height="636" alt="Screenshot 2026-11-12 013640" src="https://github.com/user-attachments/assets/d7a69e71-1edb-4caa-8640-01d541164a7e" />
-
-</p>
-
-## Features
+## Features (V1.1.0)
 
 **Video**
 - Resolution: 64x64, 128x128 or 256x256 (aspect ratio is kept, with black bars)
 - Bit depth from 1-bit to 8-bit, with Bayer dithering so low bit depths still look rich
 - Frame rate: 10, 15, 24 or 30 fps
-- Screen tints: amber, green, blue-white, white
 - Brightness, contrast and invert
+
+**Colours**
+- One-colour screens: amber, green, blue-white, white
+- Two-colour palettes: Game Boy, Sepia, Synthwave, Retro Navy
+- Pick your own shadow and highlight colours and save them
 
 **Effects**
 - Pixel grid like a real small display
@@ -37,9 +32,12 @@ testing on "Mischievous Function"
 - Bit depth from 4-bit to 16-bit and sample rates from 4000 Hz to 22050 Hz
 - Tiny-speaker band-limiting, distortion and hiss (each can be switched off), or mute
 
-**Presets:** 2005 Phone OLED, CRT Monitor, VHS Camcorder, Security Cam. Pick one, then tweak anything.
-
-Videos play on a loop and can be paused and resumed.
+**Presets and more**
+- 7 built-in presets: 2005 Phone OLED, CRT Monitor, VHS Camcorder, Security Cam, Game Boy, Old Film, Synthwave
+- Save your own presets, or reset everything to default
+- **Save as MP4** to share your creations
+- Recent videos list, three menu themes
+- Player with a seek bar, pause, fullscreen and loop
 
 ## Download (Windows)
 
